@@ -1,0 +1,4 @@
+[submodule "ferramentas/dio-agent"]
+	path = ferramentas/dio-agent
+	url = https://github.com/digitalinnovationone/dio-agent.git
+	branch = main
