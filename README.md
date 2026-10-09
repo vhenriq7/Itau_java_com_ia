@@ -14,9 +14,14 @@ Itau_java_com_ia/
 ├── ferramentas/
 │   └── dio-agent/        # DIO Agent oficial, como submodule
 ├── praticas/             # Exercícios e experimentos práticos
+│   └── exercicios-java-basico/  # Roteiro de 20 exercícios oficiais da DIO (a fazer)
 ├── desafios/             # Desafios de código/projeto
 └── projetos/             # Projetos maiores do bootcamp
 ```
+
+### Exercícios de Java Básico
+
+O roteiro dos **20 exercícios**, agrupados em seis módulos, está em [praticas/exercicios-java-basico](praticas/exercicios-java-basico/README.md). Por enquanto, há apenas a organização, os títulos e os links para os enunciados oficiais. As soluções serão feitas e versionadas progressivamente pelo estudante.
 
 ## DIO Agent + Codex
 
